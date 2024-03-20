@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "566998e054d76832",
+    "type": "split",
+    "children": [
+      {
+        "id": "031d414a83d555cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b916a808fc00b620",
+            "type": "leaf",
+            "state": {
+              "type": "make-folder-view",
+              "state": {
+                "contextPath": "Python"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5968e51d8164a65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9006d4d2ca1750dc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fb49c2d60992ab40",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cfea5dd6c94e1766",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5b0332c809cac0ff",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "ec99f7e1399f7b2e",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "0b40eba9e49a4db0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d3f28f9c47dfc0d2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Python/Python.md"
+          }
+        }
+      },
+      {
+        "id": "bb470fdf27903cde",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "3606ec229494f19e",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "0b9632290cfb469f",
+  "lastOpenFiles": [
+    "Flutter/Flutter.md",
+    "Dart/Dart.md",
+    "C++/C++.md",
+    "Context/spacesLastSync (conflict 2023-09-21-01-13-39).log",
+    "자바/COLLECTIONS/COLLECTIONS.md",
+    "자바/COLLECTIONS/MAP.md",
+    "자바/Sort/Comparable.md",
+    "자바/Sort/Comparator.md",
+    "자바/Sort/예시/길이별, 사전순별 sort.md",
+    "자바/Sort/예시/예시.md",
+    "자바/Tree 구현.md",
+    "자바/정규표현식(regex).md",
+    "아두이노/LED 종류/LED/ANALOG PWM.md",
+    "아두이노/LED 종류/LED/DITIGITAL.md",
+    "아두이노/I2C/-.write(serial.read());.md",
+    "아두이노/LED 종류/FND/0~9까지 표시(A~Z).md",
+    "아두이노/LED 종류/RGB.md",
+    "아두이노/무제 파일.md",
+    "아두이노/LED 종류/FND/FND.md",
+    "아두이노/LED 종류/LED/LED.md",
+    "아두이노/LED 종류/LED 종류.md",
+    "아두이노/I2C/I2C.md",
+    "아두이노/아두이노.md",
+    "자바/BigInteger.md",
+    "자바/Lamda.md",
+    "자바/시간 측정.md",
+    "자바/binarySearch.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Excalidraw"
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "566998e054d76832",
+    "type": "split",
+    "children": [
+      {
+        "id": "e45b9caa989a018d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0cc617afb6654a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "알고리즘/A-Star Pathfinding.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9d49ecee961a699e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a5968e51d8164a65",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9006d4d2ca1750dc",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fb49c2d60992ab40",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cfea5dd6c94e1766",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "5b0332c809cac0ff",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "ec99f7e1399f7b2e",
+        "type": "leaf",
+        "state": {
+          "type": "mk-file-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "right": {
+    "id": "0b40eba9e49a4db0",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d3f28f9c47dfc0d2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "알고리즘/A-Star Pathfinding.md"
+          }
+        }
+      },
+      {
+        "id": "bb470fdf27903cde",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      },
+      {
+        "id": "3606ec229494f19e",
+        "type": "leaf",
+        "state": {
+          "type": "advanced-tables-toolbar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "9d49ecee961a699e",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-12-04 10.32.14.excalidraw.md",
+    "Arduino/Arduino.md",
+    "Excalidraw",
+    "알고리즘/압축/LZW(Lempel-Ziv-Welch).md",
+    "알고리즘/압축/허프만(Huffman).md",
+    "알고리즘/알고리즘.md",
+    "Excalidraw/Excalidraw.md",
+    "알고리즘/A-Star Pathfinding.md",
+    "Excalidraw/Drawing 2023-10-27 00.08.57.excalidraw.md",
+    "알고리즘/Union-Find.md",
+    "Java/COLLECTIONS/COLLECTIONS.md",
+    "다운로드.png",
+    "Java/Lambda(JAVA 8+).md",
+    "Java/자바.md",
+    "Java/JAVA 17+/Enhanced Switch Expressions.md",
+    "Java/JAVA 16+/New Instance of Matching.md",
+    "Java/JAVA 16+/Stream.toList().md",
+    "Java/JAVA 16+/JAVA 16+.md",
+    "Java/JAVA 16+",
+    "Java/JAVA 17+/JAVA 17+.md",
+    "Java/JAVA 9+/Optional methods.md",
+    "Java/JAVA 9+/JAVA 9+.md",
+    "Java/JAVA 9+",
+    "Java/JAVA 17+/JSON.md",
+    "Java/.md",
+    "Java/JAVA 15+/TextBlocks.md",
+    "Java/JAVA 15+/JAVA 15+.md",
+    "Java/JAVA 15+",
+    "Java/JAVA 17+/Sealed Class.md",
+    "Java/JAVA 14+/record.md",
+    "Java/JAVA 17+/Java17 새로운 기능.md",
+    "Java/JAVA 10+",
+    "Java/JAVA 14+",
+    "Java/JAVA 17+",
+    "Context/spacesLastSync.log",
+    "Context/spacesLastSync (conflict 2023-10-12-17-12-33).log",
+    "알고리즘/Combination 설명",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "이미지/open graph.png",
+    "이미지/js_alert.png",
+    "이미지/Favicon.png",
+    "Untitled 2.canvas"
+  ]
+}

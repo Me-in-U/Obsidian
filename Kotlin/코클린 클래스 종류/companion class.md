@@ -1,0 +1,3 @@
+---
+tags: kotlin, class, companion
+---

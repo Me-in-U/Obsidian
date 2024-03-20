@@ -1,0 +1,72 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#java  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Arduino  ",
+      "color": {
+        "a": 1,
+        "rgb": 16755200
+      }
+    },
+    {
+      "query": "tag:#kotlin  ",
+      "color": {
+        "a": 1,
+        "rgb": 16668912
+      }
+    },
+    {
+      "query": "tag:#html  ",
+      "color": {
+        "a": 1,
+        "rgb": 54783
+      }
+    },
+    {
+      "query": "tag:#css  ",
+      "color": {
+        "a": 1,
+        "rgb": 9788671
+      }
+    },
+    {
+      "query": "tag:#JS  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "tag:#Algorithm",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.6446278561828,
+  "lineSizeMultiplier": 3.16064768145161,
+  "collapse-forces": false,
+  "centerStrength": 0.434895833333333,
+  "repelStrength": 11.5104166666667,
+  "linkStrength": 0.893229166666667,
+  "linkDistance": 274,
+  "scale": 0.32109297674996196,
+  "close": false
+}

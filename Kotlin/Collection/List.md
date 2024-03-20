@@ -1,0 +1,3 @@
+---
+tags: kotlin, list, collecion
+---

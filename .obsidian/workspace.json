@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "9fa7dfeed4b56812",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e050109d1476f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e5969abf4746115",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Java/소수점 표현 방법.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "55b628949e7b67d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "71b26add7c756996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e580fae59e9a9ea9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0d10ddd8e753934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:list",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63e902be1dec2dfb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "ea0beead8ec875e0",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "right": {
+    "id": "34ff48ef87a59689",
+    "type": "split",
+    "children": [
+      {
+        "id": "58207a933dbe86fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6c2073609bcafc03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "59c591a33c12ad64",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Java/소수점 표현 방법.md"
+              }
+            }
+          },
+          {
+            "id": "0f0f9c49db70aabd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "109f864c3821e87d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "667b1201503521a8",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7b3f1b950cead299",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "7b3f1b950cead299",
+  "lastOpenFiles": [
+    "알고리즘/문자열 탐색 알고리즘/Trie.md",
+    "알고리즘/문자열 탐색 알고리즘/라빈-카프.md",
+    "알고리즘/문자열 탐색 알고리즘/문자열 탐색 알고리즘.md",
+    "알고리즘/문자열 탐색 알고리즘/KMP(Knuth-Mottis-Pratt) 문자열 검색 알고리즘.md",
+    "알고리즘/문자열 탐색 알고리즘/보이어-무어.md",
+    "알고리즘/문자열 탐색 알고리즘/아호-코라식.md",
+    "알고리즘/문자열 탐색 알고리즘/맨버-마이어스.md",
+    "알고리즘/알고리즘.md",
+    "프로젝트.md",
+    "Java/소수점 표현 방법.md",
+    "Java/JAVA 14+/Enhanced Switch Expressions.md",
+    "Java/JAVA 16+/New Instance of Matching.md",
+    "desktop.ini",
+    "Arduino/Arduino.md",
+    "알고리즘/dijkstra.md",
+    "스터디 정리/14 브로드캐스트 리시버 컴포넌트.md",
+    "스터디 정리/13 엑티비티 컴포넌트.md",
+    "스터디 정리/스터디 정리.md",
+    "과제 정리/경제원리.md",
+    "과제 정리/과제 정리.md",
+    "Goggle Colaboratory/무제 파일.md",
+    "Goggle Colaboratory/Goggle Colaboratory.md",
+    "Excalidraw/Drawing 2023-12-04 10.32.14.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
+    "Excalidraw",
+    "알고리즘/MOD.md",
+    "알고리즘/GCD(Greatest Common Divisor).md",
+    "알고리즘/Permutation - 순열.md",
+    "스터디 정리/백엔드 안드로이드",
+    "스터디 정리",
+    "과제 정리",
+    "Goggle Colaboratory",
+    "이미지/Pasted image 20231116051855.png",
+    "Pasted image 20231112215440.png",
+    "Pasted image 20231112215455.png",
+    "이미지/다운로드.png",
+    "Context/spacesLastSync (conflict 2023-10-12-18-14-38).log",
+    "Context/spacesLastSync (conflict 2023-10-12-17-12-33).log",
+    "Context/spacesLastSync (conflict 2023-10-12-15-35-52).log",
+    "알고리즘/MST",
+    "무제 파일.canvas",
+    "이미지/Favicon.png",
+    "이미지/open graph.png",
+    "이미지/js_alert.png",
+    "무제 파일 1.canvas",
+    "이미지/tree.png",
+    "이미지/삼각형.png",
+    "이미지/오른손 법칙.png"
+  ]
+}

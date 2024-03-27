@@ -4,32 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e45b9caa989a018d",
+        "id": "92957549d6a8f247",
         "type": "tabs",
         "children": [
           {
-            "id": "f0cc617afb6654a0",
+            "id": "5a2afffd1df519f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "make-folder-view",
               "state": {
-                "file": "알고리즘/A-Star Pathfinding.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
+                "contextPath": "Goggle Colaboratory"
               }
             }
-          },
-          {
-            "id": "9d49ecee961a699e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -103,7 +91,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "알고리즘/A-Star Pathfinding.md"
+            "file": "Goggle Colaboratory/Goggle Colaboratory.md"
           }
         }
       },
@@ -137,8 +125,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d49ecee961a699e",
+  "active": "c043e8e9d3f4c410",
   "lastOpenFiles": [
+    "Goggle Colaboratory/무제 파일.md",
+    "알고리즘/A-Star Pathfinding.md",
+    "이미지/이미지.md",
+    "알고리즘/CCW 알고리즘.md",
     "Excalidraw/Drawing 2023-12-04 10.32.14.excalidraw.md",
     "Arduino/Arduino.md",
     "Excalidraw",
@@ -146,7 +138,6 @@
     "알고리즘/압축/허프만(Huffman).md",
     "알고리즘/알고리즘.md",
     "Excalidraw/Excalidraw.md",
-    "알고리즘/A-Star Pathfinding.md",
     "Excalidraw/Drawing 2023-10-27 00.08.57.excalidraw.md",
     "알고리즘/Union-Find.md",
     "Java/COLLECTIONS/COLLECTIONS.md",
@@ -167,9 +158,6 @@
     "Java/JAVA 15+/TextBlocks.md",
     "Java/JAVA 15+/JAVA 15+.md",
     "Java/JAVA 15+",
-    "Java/JAVA 17+/Sealed Class.md",
-    "Java/JAVA 14+/record.md",
-    "Java/JAVA 17+/Java17 새로운 기능.md",
     "Java/JAVA 10+",
     "Java/JAVA 14+",
     "Java/JAVA 17+",

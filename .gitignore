@@ -9,3 +9,7 @@
 
 # Ignore Smart Connections folder
 .smart-connections
+.obsidian/plugins/make-md/data.json
+.obsidian/plugins/make-md/Spaces.mdb
+.obsidian/plugins/make-md/data.json
+.obsidian/workspace.json

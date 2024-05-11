@@ -34,15 +34,19 @@ public class Main {
     }
     return a;
   }
-  public static int gcd(int a, int b) {
-	  int r1 = a;
-	  int r2 = b;
-	  while(r2 > 0) {
-		  int q = r1 / r2;
-		  int r = r1 - (q * r2;
-		  int r1 = r2;
-		  int r2 = r;
-	  }
+}
+```
+
+반복문
+``` java
+public static int gcd(int a, int b) {
+  int r1 = a;
+  int r2 = b;
+  while(r2 > 0) {
+	  int q = r1 / r2;
+	  int r = r1 - (q * r2);
+	  int r1 = r2;
+	  int r2 = r;
   }
 }
 ```

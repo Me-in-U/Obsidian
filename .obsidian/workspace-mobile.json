@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "92957549d6a8f247",
+        "id": "5dbcee96aa77f5e1",
         "type": "tabs",
         "children": [
           {
-            "id": "5a2afffd1df519f2",
+            "id": "b7d95344ba7a920e",
             "type": "leaf",
             "state": {
-              "type": "make-folder-view",
+              "type": "markdown",
               "state": {
-                "contextPath": "Goggle Colaboratory"
+                "file": "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬로 구하기.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Goggle Colaboratory/Goggle Colaboratory.md"
+            "file": "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬로 구하기.md"
           }
         }
       },
@@ -125,12 +128,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c043e8e9d3f4c410",
+  "active": "b7d95344ba7a920e",
   "lastOpenFiles": [
+    "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬.md",
+    "알고리즘/피보나치/O(2pN) 재귀.md",
+    "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬로 구하기.md",
+    "알고리즘/피보나치/O(log n) 행렬/피보나치 행렬.md",
+    "알고리즘/피보나치/O(n) 공간 복잡도 최적화.md",
+    "알고리즘/피보나치/O(n) DP (메모이제이션).md",
+    "알고리즘/GCD(Greatest Common Divisor).md",
+    "알고리즘/피보나치/피보나치.md",
+    "알고리즘/CCW 알고리즘.md",
+    "Goggle Colaboratory/Goggle Colaboratory.md",
     "Goggle Colaboratory/무제 파일.md",
     "알고리즘/A-Star Pathfinding.md",
     "이미지/이미지.md",
-    "알고리즘/CCW 알고리즘.md",
     "Excalidraw/Drawing 2023-12-04 10.32.14.excalidraw.md",
     "Arduino/Arduino.md",
     "Excalidraw",
@@ -146,17 +158,8 @@
     "Java/자바.md",
     "Java/JAVA 17+/Enhanced Switch Expressions.md",
     "Java/JAVA 16+/New Instance of Matching.md",
-    "Java/JAVA 16+/Stream.toList().md",
-    "Java/JAVA 16+/JAVA 16+.md",
     "Java/JAVA 16+",
-    "Java/JAVA 17+/JAVA 17+.md",
-    "Java/JAVA 9+/Optional methods.md",
-    "Java/JAVA 9+/JAVA 9+.md",
     "Java/JAVA 9+",
-    "Java/JAVA 17+/JSON.md",
-    "Java/.md",
-    "Java/JAVA 15+/TextBlocks.md",
-    "Java/JAVA 15+/JAVA 15+.md",
     "Java/JAVA 15+",
     "Java/JAVA 10+",
     "Java/JAVA 14+",

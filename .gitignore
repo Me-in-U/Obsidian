@@ -3,3 +3,9 @@
 /.trash
 /.tmp.driveupload
 .obsidian/plugins/smart-connections/data.json
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections

@@ -23,3 +23,11 @@
 .obsidian/plugins/make-md/Spaces.mdb
 .makemd/fileCache.mdc
 .makemd/superstate.mdc
+.obsidian/workspace.json
+.obsidian/plugins/make-md/data.json
+
+
+
+
+# Ignore Smart Connections folder
+.smart-connections

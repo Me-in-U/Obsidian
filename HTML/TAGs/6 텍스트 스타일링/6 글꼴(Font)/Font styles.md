@@ -1,0 +1,17 @@
+---
+aliases:
+  - "Font styles:"
+---
+- [`font-variant` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant): Switch between small caps and normal font alternatives.
+- [`font-kerning` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning): Switch font kerning options on and off.
+- [`font-feature-settings`](https://developer.mozilla.org/ko/docs/Web/CSS/font-feature-settings): Switch various [OpenType](https://en.wikipedia.org/wiki/OpenType) font features on and off.
+- [`font-variant-alternates` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-alternates): Control the use of alternate glyphs for a given font-face.
+- [`font-variant-caps` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-caps): Control the use of alternate capital glyphs.
+- [`font-variant-east-asian` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-east-asian): Control the usage of alternate glyphs for East Asian scripts, like Japanese and Chinese.
+- [`font-variant-ligatures` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-ligatures): Control which ligatures and contextual forms are used in text.
+- [`font-variant-numeric` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric): Control the usage of alternate glyphs for numbers, fractions, and ordinal markers.
+- [`font-variant-position` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-position): Control the usage of alternate glyphs of smaller sizes positioned as superscript or subscript.
+- [`font-size-adjust` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-size-adjust): Adjust the visual size of the font independently of its actual font size.
+- [`font-stretch` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-stretch): Switch between possible alternative stretched versions of a given font.
+- [`text-underline-position` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/text-underline-position): Specify the position of underlines set using the `text-decoration-line` property `underline` value.
+- [`text-rendering` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering): Try to perform some text rendering optimization.

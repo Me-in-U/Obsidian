@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fe4c2b56d7285b1b",
+        "id": "c3e4cdd869cfa072",
         "type": "tabs",
         "children": [
           {
-            "id": "66a0c262bc588f82",
+            "id": "3b0642d9913ee089",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "알고리즘"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "알고리즘"
+              "title": "새 탭"
             }
           }
         ]
@@ -81,8 +79,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -102,8 +99,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -128,23 +125,13 @@
               "icon": "lucide-list",
               "title": "개요"
             }
-          },
-          {
-            "id": "22823d1597da1942",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화되지 않음"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,41 +146,54 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "22823d1597da1942",
+  "active": "22823bbdf51c1ae7",
   "lastOpenFiles": [
-    "알고리즘/알고리즘.md",
-    "스터디 정리/13 엑티비티 컴포넌트.md",
-    "스터디 정리/14 브로드캐스트 리시버 컴포넌트.md",
-    "스터디 정리/백엔드 안드로이드/8-1. 터치와 키 이벤트.md",
-    "스터디 정리/스터디 정리.md",
+    "HTML/TAGs/Pseudo-class 셀렉터.md",
+    "HTML/TAGs/셀렉터의 우선순위.md",
+    "HTML/배경, margin collapse.md",
+    "HTML/TAGs/5 레이아웃 box/position 좌표 레이아웃.md",
+    "HTML/TAGs/5 레이아웃 box/Floats.md",
+    "이미지/Pasted image 20250116104602.png",
+    "HTML/TAGs/5 레이아웃 box/Grid.md",
+    "이미지/Pasted image 20250116104525.png",
+    "이미지/Pasted image 20250116104512.png",
+    "이미지/Pasted image 20250116104503.png",
+    "이미지/Pasted image 20250116104449.png",
     "스탭모터.md",
-    "Java/Java.md",
-    "Kotlin/Kotlin.md",
-    "Spring Boot/Spring Boot.md",
-    "Arduino/Arduino.md",
-    "프로젝트.md",
-    "Dart/Dart.md",
-    "CSS/normalize.css.md",
-    "CSS/CSS.md",
-    "무제 파일.canvas",
-    "Goggle Colaboratory/Goggle Colaboratory.md",
-    "Goggle Colaboratory/무제 파일.md",
-    "이미지/이미지.md",
-    "Excalidraw/Drawing 2023-12-04 10.32.14.excalidraw.md",
-    "Excalidraw/Excalidraw.md",
-    "이미지/Pasted image 20240910193331.png",
-    "이미지/Pasted image 20240910193335.png",
-    "과제 정리/과제 정리.md",
-    "과제 정리/경제원리.md",
-    "Untitled/Sampler.md",
-    "Untitled/Untitled.md",
-    "Untitled/Pasted image 20240828045110.png",
-    "HTML/기본 템플릿.md",
-    "smart-chats",
-    "Tags",
     "Vault.md",
-    "Untitled",
-    "Pasted image 20240809112410.png",
-    "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬로 구하기.md"
+    "무제 파일.canvas",
+    "무제 폴더",
+    "HTML/TAGs/5 레이아웃 box/Flexbox.md",
+    "이미지/Pasted image 20250116104306.png",
+    "이미지/Pasted image 20250116104209.png",
+    "이미지/Pasted image 20250116104232.png",
+    "이미지/Pasted image 20250116104200.png",
+    "HTML/TAGs/5 레이아웃 box/div/div.md",
+    "HTML/TAGs/5 레이아웃 box/div/position 겹치는 박스 만들기.md",
+    "HTML/TAGs/5 레이아웃 box/div/shadow.md",
+    "HTML/TAGs/5 레이아웃 box/무제 파일.md",
+    "HTML/TAGs/5 레이아웃 box/div",
+    "HTML/TAGs/5 레이아웃 box/5 레이아웃 box.md",
+    "HTML/TAGs/5 레이아웃 box",
+    "HTML/TAGs/6 텍스트 스타일링/목록 list.md",
+    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링/links as buttons.md",
+    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링/a 링크 스타일링.md",
+    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링",
+    "HTML/TAGs/6 텍스트 스타일링/그림자 shadow.md",
+    "HTML/TAGs/6 텍스트 스타일링/색상 color.md",
+    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)/웹 폰트.md",
+    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)/AntiAlias.md",
+    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)/Font styles.md",
+    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)/Web fonts.md",
+    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)/6 글꼴(Font).md",
+    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)",
+    "HTML/TAGs/6 텍스트 스타일링/레이아웃/Text layout styles.md",
+    "HTML/TAGs/6 텍스트 스타일링/레이아웃/레이아웃.md",
+    "HTML/TAGs/6 텍스트 스타일링/레이아웃",
+    "HTML/TAGs/6 텍스트 스타일링",
+    "HTML/TAGs/무제 파일",
+    "HTML/TAGs/7 값과 단위/3 색상",
+    "HTML/TAGs/7 값과 단위",
+    "이미지/Pasted image 20240910193331.png"
   ]
 }

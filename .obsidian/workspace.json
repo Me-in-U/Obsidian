@@ -4,20 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "7c9ed476d6257549",
+        "id": "fe4c2b56d7285b1b",
         "type": "tabs",
         "children": [
           {
-            "id": "580c13874d59c914",
+            "id": "66a0c262bc588f82",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "HTML/기본 템플릿.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+                "path": "알고리즘"
+              },
+              "icon": "lucide-file",
+              "title": "알고리즘"
             }
           }
         ]
@@ -40,7 +39,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -55,7 +56,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -63,15 +66,19 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "f4f090856583373a",
+            "id": "39836efb79fb969d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
         ],
@@ -94,7 +101,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           },
           {
@@ -105,7 +114,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -113,17 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "HTML/기본 템플릿.md"
-              }
-            }
-          },
-          {
-            "id": "dea9c8c3335c05dd",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-list",
+              "title": "개요"
             }
           },
           {
@@ -131,45 +134,66 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "플러그인이 더 이상 활성화되지 않음"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "580c13874d59c914",
+  "active": "22823d1597da1942",
   "lastOpenFiles": [
+    "알고리즘/알고리즘.md",
+    "스터디 정리/13 엑티비티 컴포넌트.md",
+    "스터디 정리/14 브로드캐스트 리시버 컴포넌트.md",
+    "스터디 정리/백엔드 안드로이드/8-1. 터치와 키 이벤트.md",
+    "스터디 정리/스터디 정리.md",
     "스탭모터.md",
-    "Pasted image 20240910193335.png",
-    "Pasted image 20240910193331.png",
+    "Java/Java.md",
+    "Kotlin/Kotlin.md",
+    "Spring Boot/Spring Boot.md",
+    "Arduino/Arduino.md",
+    "프로젝트.md",
+    "Dart/Dart.md",
+    "CSS/normalize.css.md",
+    "CSS/CSS.md",
+    "무제 파일.canvas",
+    "Goggle Colaboratory/Goggle Colaboratory.md",
+    "Goggle Colaboratory/무제 파일.md",
+    "이미지/이미지.md",
+    "Excalidraw/Drawing 2023-12-04 10.32.14.excalidraw.md",
+    "Excalidraw/Excalidraw.md",
+    "이미지/Pasted image 20240910193331.png",
+    "이미지/Pasted image 20240910193335.png",
+    "과제 정리/과제 정리.md",
+    "과제 정리/경제원리.md",
     "Untitled/Sampler.md",
     "Untitled/Untitled.md",
     "Untitled/Pasted image 20240828045110.png",
+    "HTML/기본 템플릿.md",
+    "smart-chats",
+    "Tags",
     "Vault.md",
     "Untitled",
     "Pasted image 20240809112410.png",
-    "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬로 구하기.md",
-    "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬.md",
-    "아스키 코드 ASCII.md",
-    "smart-chats",
-    "Tags"
+    "알고리즘/피보나치/O(log n) 행렬/O(log n) 행렬로 구하기.md"
   ]
 }

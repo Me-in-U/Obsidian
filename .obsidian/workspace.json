@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c3e4cdd869cfa072",
+        "id": "6e252a5b63ea3a74",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0642d9913ee089",
+            "id": "8a40c3ece1c3887a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "알고리즘/압축/LZW(Lempel-Ziv-Welch).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "LZW(Lempel-Ziv-Welch)"
+              "title": "새 탭"
             }
           }
         ]
@@ -75,7 +70,7 @@
             }
           },
           {
-            "id": "7292dbb9f94bb29f",
+            "id": "c9a9529361368fc3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -149,8 +144,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3b0642d9913ee089",
+  "active": "22823bbdf51c1ae7",
   "lastOpenFiles": [
+    "알고리즘/압축/LZW(Lempel-Ziv-Welch).md",
     "알고리즘/압축/허프만(Huffman).md",
     "알고리즘/압축/산술부호화(Arithmetic Coding).md",
     "알고리즘/압축/압축.md",
@@ -177,7 +173,6 @@
     "알고리즘/MST/Prim.md",
     "무제 파일.canvas",
     "알고리즘/문자열 탐색 알고리즘/문자열 탐색 알고리즘.md",
-    "알고리즘/문자열 탐색 알고리즘/Trie.md",
     "알고리즘/문자열 탐색 알고리즘/context.mdb",
     "이미지/Pasted image 20250116104602.png",
     "이미지/Pasted image 20250116104525.png",

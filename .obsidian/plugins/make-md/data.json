@@ -35,7 +35,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//알고리즘/알고리즘/피보나치",
     "//알고리즘/알고리즘/피보나치/알고리즘/피보나치/O(log n) 행렬",
     "//Untitled",
     "//Untitled",
@@ -54,7 +53,15 @@
     "//HTML/HTML/TAGs/HTML/TAGs/무제 파일",
     "//HTML/HTML/TAGs/HTML/TAGs/6 텍스트 스타일링/HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)",
     "//HTML/HTML/TAGs/HTML/TAGs/5 레이아웃 box",
-    "/"
+    "/",
+    "//Java/Java/JAVA 17+",
+    "//Java/Java/JAVA 16+",
+    "//Java/Java/JAVA 15+",
+    "//알고리즘/알고리즘/압축",
+    "//알고리즘/알고리즘/Sorting/알고리즘/Sorting/Quick Sort",
+    "//Java",
+    "//Java/Java/COLLECTIONS",
+    "//Java/Java/Sort"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -105,6 +112,7 @@
   "firstLaunch": true,
   "notesPreview": false,
   "editStickerInSidebar": true,
+  "overrideNativeMenu": false,
   "flowMenuEnabled": true,
   "markSans": false,
   "makeMenuPlaceholder": true,

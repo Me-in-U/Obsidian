@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/Stream.md",
+                "file": "Java/추상화, 구체화, 인스턴스/추상화 (Abstraction).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stream"
+              "title": "추상화 (Abstraction)"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "2966ce7d4fa5f1a4",
+            "id": "b088de39665be3bd",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -152,12 +152,20 @@
   },
   "active": "8a40c3ece1c3887a",
   "lastOpenFiles": [
+    "Java/동기화 동시성 문제.md",
+    "Java/추상화, 구체화, 인스턴스/추상화, 구체화, 인스턴스.md",
+    "Java/추상화, 구체화, 인스턴스/인스턴스 (Instance).md",
+    "Java/추상화, 구체화, 인스턴스",
+    "Java/추상화, 구체화, 인스턴스/추상화 (Abstraction).md",
+    "Java/추상화, 구체화, 인스턴스/구체화 (Concretization).md",
+    "Java/클래스와 객체의 개념.md",
+    "Java/메모리 할당(Metaspace, stack, heap).md",
+    "Java/Stream.md",
     "Java/Sort/Comparable.md",
     "Java/Sort/예시/예시.md",
     "Java/Sort/Sort 방식 차이.md",
     "Java/Sort/예시/길이별, 사전순별 sort.md",
     "Java/PriorityQueue.md",
-    "Java/Stream.md",
     "Java/SimpleDateFormat.md",
     "Java/JAVA 16+/Stream.toList().md",
     "Java/Lambda(JAVA 8+).md",
@@ -172,13 +180,6 @@
     "알고리즘/MST/Kruskal.md",
     "알고리즘/MST/Prim.md",
     "알고리즘/Sorting/Quick Sort/Hoare's Partition Algorithm.md",
-    "알고리즘/Permutation - 순열.md",
-    "알고리즘/압축/허프만(Huffman).md",
-    "알고리즘/압축/산술부호화(Arithmetic Coding).md",
-    "알고리즘/압축/LZW(Lempel-Ziv-Welch).md",
-    "Java/String 패턴 찾기.md",
-    "Java/StringBuilder, StringBuffer.md",
-    "Java/Tree 구현.md",
     "Tags",
     "알고리즘/문자열 탐색 알고리즘/context.mdb",
     "이미지/Pasted image 20250116104602.png",
@@ -197,7 +198,6 @@
     "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)",
     "HTML/TAGs/6 텍스트 스타일링/레이아웃",
     "HTML/TAGs/6 텍스트 스타일링",
-    "HTML/TAGs/무제 파일",
     "이미지/Pasted image 20240910193331.png"
   ]
 }

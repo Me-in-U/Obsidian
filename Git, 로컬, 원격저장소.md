@@ -25,3 +25,4 @@ git remote add origin https://lab.ssafy.com/me_in_u/git_train.git
 | `git diff --stat`                | 변경된 파일과 줄 수를 요약.                    |
 | `git difftool`                   | GUI 도구로 변경 내용 확인.                   |
 | `--stat` 옵션                      | 간략하게 표현                             |
+git push origin master

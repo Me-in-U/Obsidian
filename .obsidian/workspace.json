@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git, 로컬, 원격저장소.md",
+                "file": "Java/추상화, 구체화, 인스턴스/추상화 (Abstraction).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git, 로컬, 원격저장소"
+              "title": "추상화 (Abstraction)"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "953028467d46c1fe",
+            "id": "0c90928114dc4737",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -152,9 +152,12 @@
   },
   "active": "fec4742a9cfa3b15",
   "lastOpenFiles": [
+    "Java/Tight Loose Coupling.md",
+    "Java/Java.md",
+    "Java/Interface.md",
+    "Git, 로컬, 원격저장소.md",
     "Java/Static, Dynamic Binding.md",
     "Java/JAVA 16+/New Instance of Matching.md",
-    "Git, 로컬, 원격저장소.md",
     "알고리즘/Sorting/Quick Sort/Hoare's Partition Algorithm.md",
     "Git",
     "알고리즘/Sorting/Quick Sort/Quick Sort.md",
@@ -174,12 +177,9 @@
     "Java/JAVA 8+ Lambda.md",
     "Java/JAVA 8+",
     "Java/AtomicInteger.md",
-    "Java/Java.md",
     "Java/JAVA 17+/Sealed Class.md",
     "Java/Object Class.md",
     "Java/추상화, 구체화, 인스턴스/추상화 (Abstraction).md",
-    "Java/추상화, 구체화, 인스턴스/추상화, 구체화, 인스턴스.md",
-    "Java/추상화, 구체화, 인스턴스/인스턴스 (Instance).md",
     "Java/추상화, 구체화, 인스턴스",
     "무제 파일.canvas",
     "Tags",

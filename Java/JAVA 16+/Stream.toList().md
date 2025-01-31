@@ -1,3 +1,9 @@
+---
+tags:
+  - java
+  - stream
+  - list
+---
 이제 Stream에서 List로 변환할 때 기존의 긴 Collectors.toList() 를 호출하지 않아도 된다.
 ```java
 private static void old1() {

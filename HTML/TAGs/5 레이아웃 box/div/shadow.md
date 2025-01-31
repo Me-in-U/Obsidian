@@ -1,3 +1,6 @@
+---
+tags: html, div, flexbox, shadow
+---
 ```css
 /* offset-x | offset-y | color */
 box-shadow: 60px -16px teal;

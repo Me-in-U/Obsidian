@@ -1,3 +1,6 @@
+---
+tags: sync, java
+---
 ## **`synchronized`**
 
 ### **정의**

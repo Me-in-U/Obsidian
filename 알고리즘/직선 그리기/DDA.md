@@ -1,0 +1,3 @@
+---
+tags: algorithm, line
+---

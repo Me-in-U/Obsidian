@@ -1,3 +1,6 @@
+---
+tags: html, flexbox, layout, grid
+---
 ## [그리드 레이아웃이란 무엇인가?](https://developer.mozilla.org/ko/docs/Learn/CSS/CSS_layout/Grids#%EA%B7%B8%EB%A6%AC%EB%93%9C_%EB%A0%88%EC%9D%B4%EC%95%84%EC%9B%83%EC%9D%B4%EB%9E%80_%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 
 그리드는 수평선과 수직선으로 이루어진 집합체로, 디자인 요소를 정렬할 수 있는 대상 패턴을 생성한다. 이 디자인은 페이지에서 페이지로 이동할 때 요소가 널뛰거나 너비가 바뀌지 않는 디자인 생성에 도움을 주어 웹 사이트의 일관성을 높여준다.

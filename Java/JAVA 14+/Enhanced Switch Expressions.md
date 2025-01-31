@@ -1,3 +1,6 @@
+---
+tags: java, switch
+---
 ## 1. 개선된 switch문
 화살표 case 라벨, 다중 case 라벨, switch 연산식, yield 예약어 등의 기능이 추가되었습니다.
 ```java

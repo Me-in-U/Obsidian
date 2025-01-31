@@ -1,3 +1,6 @@
+---
+tags: java, object, class
+---
 - 모든 클래스의 최상위 조상 클래스
 	- 별도의 extends 선언이 없는 클래스들은 extends Object가 생략됨
 	- 따라서 모든 클래스에는 Object 클래스에 정의된 메서드가 있음

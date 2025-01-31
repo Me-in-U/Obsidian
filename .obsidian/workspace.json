@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "42ecc43dfa80a126",
+        "id": "bc6a2386e3f8a715",
         "type": "tabs",
         "children": [
           {
-            "id": "fec4742a9cfa3b15",
+            "id": "cde7ef680f8ac19a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/추상화, 구체화, 인스턴스/추상화 (Abstraction).md",
+                "file": "알고리즘/Combination 설명/Combination 설명.md",
                 "mode": "source",
-                "backlinks": false,
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "추상화 (Abstraction)"
+              "title": "Combination 설명"
             }
           }
         ]
@@ -41,7 +41,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -53,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#compress",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +76,7 @@
             }
           },
           {
-            "id": "0c90928114dc4737",
+            "id": "e3191fb0eab42a6c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,8 +85,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +141,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
@@ -150,36 +150,38 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fec4742a9cfa3b15",
+  "active": "22823bbdf51c1ae7",
   "lastOpenFiles": [
-    "Java/Tight Loose Coupling.md",
-    "Java/Java.md",
-    "Java/Interface.md",
-    "Git, 로컬, 원격저장소.md",
-    "Java/Static, Dynamic Binding.md",
-    "Java/JAVA 16+/New Instance of Matching.md",
-    "알고리즘/Sorting/Quick Sort/Hoare's Partition Algorithm.md",
-    "Git",
-    "알고리즘/Sorting/Quick Sort/Quick Sort.md",
-    "알고리즘/삼각형의 넓이.md",
-    "알고리즘/dijkstra.md",
-    "알고리즘/Union-Find.md",
-    "Java/동기화 동시성 AtomicInteger synchronized.md",
-    "Java/메모리 할당(Metaspace, stack, heap).md",
-    "Java/소수점 표현 방법.md",
-    "Java/Tree 구현.md",
-    "Java/String 패턴 찾기.md",
-    "Java/SimpleDateFormat.md",
-    "Java/BufferedStream.md",
-    "알고리즘/binarySearch.md",
-    "Java/Override.md",
+    "알고리즘/Combination 설명/Combination 코드.md",
+    "알고리즘/Combination 설명/Combination 설명.md",
+    "Context/Context.md",
+    "이미지/이미지.md",
+    "Excalidraw/Excalidraw.md",
+    "알고리즘/피보나치/O(log n) 행렬/피보나치 행렬.md",
+    "HTML/TAGs/7 값과 단위/3 색상/RGB 및 RGBA 값.md",
+    "무제.canvas",
+    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링/a 링크 스타일링.md",
+    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)/AntiAlias.md",
+    "HTML/TAGs/7 값과 단위/7 값과 단위.md",
+    "Java/JAVA 17+/JSON.md",
+    "HTML/TAGs/Table.md",
     "Java/JAVA 8+/Lambda.md",
-    "Java/JAVA 8+ Lambda.md",
+    "Java/JAVA 15+/TextBlocks.md",
+    "HTML/TAGs/7 값과 단위/문자열 및 식별자 (identifiers).md",
+    "HTML/TAGs/5 레이아웃 box/div/shadow.md",
+    "HTML/TAGs/5 레이아웃 box/Grid.md",
+    "HTML/TAGs/6 텍스트 스타일링/색상 color.md",
+    "HTML/TAGs/Inputlable.md",
+    "Kotlin/변수 선언/지연초기화/지연초기화.md",
+    "Arduino/I2C/I2C.md",
+    "알고리즘/피보나치/O(2pN) 재귀.md",
+    "알고리즘/피보나치/피보나치.md",
+    "알고리즘/피보나치/O(n) 공간 복잡도 최적화.md",
+    "알고리즘/피보나치/O(n) DP (메모이제이션).md",
+    "알고리즘/알고리즘.md",
+    "Java/Generic",
+    "Git",
     "Java/JAVA 8+",
-    "Java/AtomicInteger.md",
-    "Java/JAVA 17+/Sealed Class.md",
-    "Java/Object Class.md",
-    "Java/추상화, 구체화, 인스턴스/추상화 (Abstraction).md",
     "Java/추상화, 구체화, 인스턴스",
     "무제 파일.canvas",
     "Tags",
@@ -197,7 +199,6 @@
     "HTML/TAGs/5 레이아웃 box/div",
     "HTML/TAGs/5 레이아웃 box",
     "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링",
-    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)",
     "이미지/Pasted image 20240910193331.png"
   ]
 }

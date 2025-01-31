@@ -1,3 +1,9 @@
+---
+tags:
+  - html
+  - div
+  - layout
+---
 ```css
 .box {
 	width : 150px;

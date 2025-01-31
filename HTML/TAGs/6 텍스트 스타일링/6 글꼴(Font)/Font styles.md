@@ -1,6 +1,10 @@
 ---
 aliases:
   - "Font styles:"
+tags:
+  - html
+  - font
+  - style
 ---
 - [`font-variant` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant): Switch between small caps and normal font alternatives.
 - [`font-kerning` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/font-kerning): Switch font kerning options on and off.

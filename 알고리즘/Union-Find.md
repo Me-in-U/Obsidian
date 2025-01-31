@@ -1,3 +1,6 @@
+---
+tags: algorithm, union find
+---
 Union-Find 알고리즘은 트리 구조를 사용하여 disjoint set들을 관리합니다. 이 알고리즘은 두 주요 연산, Union과 Find,을 제공합니다. Union 연산은 두 집합을 하나로 합치고, Find 연산은 주어진 원소가 어떤 집합에 속하는지 찾아냅니다. 아래는 Union-Find 알고리즘의 기본적인 구현입니다:
 
 ```java

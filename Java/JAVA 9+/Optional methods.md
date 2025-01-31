@@ -1,3 +1,6 @@
+---
+tags: java, optional
+---
 자바 8 에서 처음 소개된 Opitonal 은 null 에대한 처리를 좀 더 세련되게 처리 할 수 있다. feature 가 소개된 이후 활용도가 굉장히 높다.8 이후 버전에서 유용한 메서들이 추가 됐다. 아래는 예시이다.
 ```java
 public class Main {

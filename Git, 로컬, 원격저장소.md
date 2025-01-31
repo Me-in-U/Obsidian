@@ -1,3 +1,7 @@
+---
+tags:
+  - git
+---
 ```git
 git remote add origin https://lab.ssafy.com/me_in_u/git_train.git
 ```

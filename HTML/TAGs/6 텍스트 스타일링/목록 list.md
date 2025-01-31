@@ -1,3 +1,6 @@
+---
+tags: html, list
+---
 [목록](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals#lists)  은 대부분 다른 텍스트처럼 작동하지만, 알아야 할 목록과 관련된 몇 가지 CSS 속성과 고려해야 할 모범 사례가 있습니다. 이 기사는 모든 것을 설명합니다.
 
 If you go to the live example now and investigate the list elements using [browser developer tools (en-US)](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools), you'll notice a couple of styling defaults:

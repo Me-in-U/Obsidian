@@ -1,3 +1,6 @@
+---
+tags: metaspace, stack, heap, java
+---
 ```java
 public class SmartPhone {
     static double osVer = 1.0;

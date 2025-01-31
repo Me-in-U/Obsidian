@@ -1,6 +1,7 @@
 ---
 aliases:
   - <Table>
+tags: html, table
 ---
 # HTML Attribute Reference
 

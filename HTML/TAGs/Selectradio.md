@@ -1,6 +1,10 @@
 ---
 aliases:
   - <Select><radio>
+tags:
+  - select
+  - radio
+  - html
 ---
 ```html
 <select>

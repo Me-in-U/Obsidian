@@ -1,3 +1,10 @@
+---
+tags:
+  - html
+  - div
+  - boxed
+  - position
+---
 **겹치는 박스 만들기**
 
 **당연히 position 속성을 사용하면 되겠죠?**

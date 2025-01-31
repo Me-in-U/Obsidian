@@ -1,3 +1,6 @@
+---
+tags: html, link, button
+---
 ```html
 <nav class="container">
   <a href="#">Home</a>

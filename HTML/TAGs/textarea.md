@@ -1,6 +1,7 @@
 ---
 aliases:
   - <textarea>
+tags: html, textarea
 ---
 ```html
 <textarea></textarea>

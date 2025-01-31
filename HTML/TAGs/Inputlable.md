@@ -1,6 +1,7 @@
 ---
 aliases:
   - <Input><lable>
+tags: html, input
 ---
 # Example
 

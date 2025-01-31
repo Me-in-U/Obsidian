@@ -1,3 +1,6 @@
+---
+tags: arduino, potentialmeter
+---
 ``` c++
 const int potentialMeterPin = 0;
 const int ledYellowPin = 10;

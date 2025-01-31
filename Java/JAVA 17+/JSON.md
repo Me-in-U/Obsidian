@@ -1,3 +1,6 @@
+---
+tags: java, json
+---
 ```java
 private static void oldStyle() {
     String text = "{\n" +

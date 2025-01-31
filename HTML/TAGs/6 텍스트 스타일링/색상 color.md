@@ -1,3 +1,6 @@
+---
+tags: html, color, text, style
+---
 ### [색상](https://developer.mozilla.org/ko/docs/Learn/CSS/Styling_text/Fundamentals#%EC%83%89%EC%83%81)
 
 [`color`](https://developer.mozilla.org/ko/docs/Web/CSS/color) 속성은 선택한 요소의 전경 내용의 색상을 설정합니다 (일반적으로 텍스트이지만, [`text-decoration`](https://developer.mozilla.org/ko/docs/Web/CSS/text-decoration) 속성을 사용하여 텍스트에 배치되는 밑줄이나 오버라인과 같은 몇 가지 다른 것도 포함할 수 있습니다.

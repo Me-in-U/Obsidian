@@ -1,3 +1,9 @@
+---
+tags:
+  - html
+  - margin
+  - background
+---
 **배경관련 CSS 속성들**
 
 ```css

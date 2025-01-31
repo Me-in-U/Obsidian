@@ -1,6 +1,12 @@
 ---
 aliases:
   - <a> 링크 스타일링
+tags:
+  - html
+  - link
+  - anchor
+  - style
+  - text
 ---
 ### [Styling some links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links#styling_some_links)
 

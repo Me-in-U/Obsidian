@@ -1,5 +1,7 @@
 ---
-tags: []
+tags:
+  - java
+  - collections
 ---
 ![[COLLECTIONS.png]]
 

@@ -1,3 +1,6 @@
+---
+tags: java, static, dynamic, binding
+---
 ### 1. **정적 바인딩 (Static Binding)**
 - **정의**: 컴파일 시점에 메서드 호출이 결정되는 바인딩.
 - **특징**:

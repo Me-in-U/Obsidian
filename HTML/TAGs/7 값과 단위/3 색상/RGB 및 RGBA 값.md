@@ -1,3 +1,10 @@
+---
+tags:
+  - hmtl
+  - RGB
+  - color
+  - value
+---
 ### [RGB](https://developer.mozilla.org/ko/docs/Learn/CSS/Building_blocks/Values_and_units#rgb_%EB%B0%8F_rgba_%EA%B0%92)
 
 여기서 이야기 할 세 번째 방식은 RGB 입니다. RGB 값은 — `rgb()` 함수입니다 — 이 값은 16진수 값과 거의 같은 방식으로 색상의 빨강, 녹색 및 파랑 채널 값을 나타내는 세 개의 매개 변수가 제공됩니다. RGB 와의 차이점은 각 채널이 2개의 16진수가 아니라 0 과 255 사이의 10진수로 표현되어 — 다소 이해하기 쉽다는 것입니다.

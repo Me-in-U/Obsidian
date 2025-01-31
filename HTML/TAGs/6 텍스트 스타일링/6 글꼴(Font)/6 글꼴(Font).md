@@ -1,3 +1,8 @@
+---
+tags:
+  - html
+  - font
+---
 ## [글꼴](https://developer.mozilla.org/ko/docs/Learn/CSS/Styling_text/Fundamentals#%EA%B8%80%EA%BC%B4)
 
 글꼴 스타일링의 속성을 살펴보도록 하겠습니다. 이 예에서는 동일한 HTML 샘플에 몇 가지 다른 CSS 속성을 적용합니다:

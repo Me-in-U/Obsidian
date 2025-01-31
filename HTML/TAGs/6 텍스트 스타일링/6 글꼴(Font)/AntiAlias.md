@@ -1,3 +1,10 @@
+---
+tags:
+  - html
+  - font
+  - style
+  - antialias
+---
 ```css
 p,h4,h3,h2 ~~~~~~{
 	transform: rotate(0.03deg)

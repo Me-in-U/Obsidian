@@ -1,3 +1,6 @@
+---
+tags: java, abstraction
+---
 ### **1. 추상화 (Abstraction)**
 
 #### **정의**

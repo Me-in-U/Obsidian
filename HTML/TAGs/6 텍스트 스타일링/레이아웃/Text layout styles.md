@@ -1,6 +1,11 @@
 ---
 aliases:
   - "Text layout styles:"
+tags:
+  - text
+  - layout
+  - style
+  - html
 ---
 - [`text-indent` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/text-indent): Specify how much horizontal space should be left before the beginning of the first line of the text content.
 - [`text-overflow` (en-US)](https://developer.mozilla.org/en-US/docs/Web/CSS/text-overflow): Define how overflowed content that is not displayed is signaled to users.

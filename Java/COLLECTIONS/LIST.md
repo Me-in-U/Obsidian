@@ -5,10 +5,21 @@ tags: java, list, LinkedList, ArrayList, Vector, Queue, Deque, Stack, collection
 
 자바에서 Deque를 구현하는 방법은 크게 LinkedList와 ArrayDeque가 있는데, 스택의 size가 엄청 커질 가능성이 있고 size의 변동성이 매우 큰 경우 즉각적인 메모리 공간 확보를 위해선 LinkedList방식이 적절하고, 그렇지 않은 경우는 자체 메모리 소모량이 적고 iterate의 효율이 좋은 ArrayDeque를 사용하면 된다.
 
-### **뭘 써야할까**
-Java의 Vector와 Stack은 멀티스레드 환경의 여부와 상관없이 대부분의 조건에서 성능 저하를 일으킨다.
+Vector는 get()과 set()역할을 하는 모든 메서드에 synchronized 키워드가 붙어 있다.
 
-Vector가 필요한 상황이라면 대신 ArrayList를 사용하는 것이 바람직하다.
+따라서 멀티스레드 프로그래밍을 하는게 아니라면, 비슷한 역할을 하는 ArrayList를 사용하는게 좋다. (ArrayList에는 synchronized 키워드가 전혀 없다.)
+
+그렇다면 멀티스레드 프로그래밍을 하지 않는 상황에선 ArrayList를 사용하고, 멀티스레드 프로그래밍을 할 때에는 Vector 컬렉션을 사용하면 되는가?
+
+그 또한 그렇지 않다. Vector의 모든 get() set() 등의 메서드에 synchronized가 붙어있는건 특정 상황에서 성능을 꽤 저하시킬 수 있다.
+
+단순히 Vector에 Iterator를 붙여 순차적으로 item들을 탐색하기만 해도 원소탐색 시마다 get() 메서드의 실행을 위해 계속 lock을 걸고 닫으므로 Iterator연산과정 전체에 1번만 걸어주면 될 locking에 쓸데없는 오버헤드가 엄청나게 발생한다.
+
+따라서 Vector는 특정 상황에서만 최적으로 동작하게 되고, 어떤 상황에서는 그렇지 않게 되므로 효율적인 Thread-safe 컬렉션이라고 할 수 없는 것이다.
+
+그럼 멀티스레드 환경의 여부와 상관없이 Vector를 쓰지 말아야 된다는 건 알았다. 앞에서 멀티스레드 환경이 아닐 때 ArrayList를 써야 된다고 했는데, 그럼 멀티스레드 환경일 때는 어떤 컬렉션을 쓰는게 좋은가?
+
+이 경우에도 마찬가지로 ***ArrayList를 사용하면된다***.
 
 마찬가지로 Stack 대신 Deque의 하위컬렉션을 상황에 맞게, 혹은 그냥 ArrayList를 사용하는 것이 적절하다.
 

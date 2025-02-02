@@ -73,7 +73,8 @@ for (Entry<Integer, String> entry : map.entrySet()) {
 }
 
 //entrySet().iterator()
-Iterator<Entry<Integer, String>> entries = map.entrySet().iterator(); while(entries.hasNext()){
+Iterator<Entry<Integer, String>> entries = map.entrySet().iterator(); 
+while(entries.hasNext()){
 	Map.Entry<Integer, String> entry = entries.next();
 	System.out.println("[Key]:" + entry.getKey() + " [Value]:" + entry.getValue());
 }

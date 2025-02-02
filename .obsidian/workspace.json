@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "알고리즘/Combination 설명/Combination 설명.md",
+                "file": "Java/COLLECTIONS/MAP.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Combination 설명"
+              "title": "MAP"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "e3191fb0eab42a6c",
+            "id": "e1a7b0e752654860",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -150,10 +150,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "22823bbdf51c1ae7",
+  "active": "cde7ef680f8ac19a",
   "lastOpenFiles": [
-    "알고리즘/Combination 설명/Combination 코드.md",
+    "Java/COLLECTIONS/SET.md",
+    "Java/COLLECTIONS/MAP.md",
+    "Java/COLLECTIONS/COLLECTIONS.md",
+    "Java/COLLECTIONS/LIST.md",
+    "Java/COLLECTIONS/상호변환.md",
+    "Pasted image 20250131150957.png",
+    "Pasted image 20250131150909.png",
+    "Java/COLLECTIONS/다중 리스트.md",
+    "Java/Generic/Generic.md",
+    "Java/Generic/PECS(Producer Extends, Consumer Super) .md",
+    "Java/Generic/제한된 타입 파라미터(Bounded Type Parameter).md",
+    "Java/Generic/클래스 메소드.md",
+    "Java/Generic/와일드카드(Wildcard).md",
     "알고리즘/Combination 설명/Combination 설명.md",
+    "알고리즘/Combination 설명/Combination 코드.md",
     "Context/Context.md",
     "이미지/이미지.md",
     "Excalidraw/Excalidraw.md",
@@ -168,17 +181,6 @@
     "Java/JAVA 8+/Lambda.md",
     "Java/JAVA 15+/TextBlocks.md",
     "HTML/TAGs/7 값과 단위/문자열 및 식별자 (identifiers).md",
-    "HTML/TAGs/5 레이아웃 box/div/shadow.md",
-    "HTML/TAGs/5 레이아웃 box/Grid.md",
-    "HTML/TAGs/6 텍스트 스타일링/색상 color.md",
-    "HTML/TAGs/Inputlable.md",
-    "Kotlin/변수 선언/지연초기화/지연초기화.md",
-    "Arduino/I2C/I2C.md",
-    "알고리즘/피보나치/O(2pN) 재귀.md",
-    "알고리즘/피보나치/피보나치.md",
-    "알고리즘/피보나치/O(n) 공간 복잡도 최적화.md",
-    "알고리즘/피보나치/O(n) DP (메모이제이션).md",
-    "알고리즘/알고리즘.md",
     "Java/Generic",
     "Git",
     "Java/JAVA 8+",
@@ -195,10 +197,8 @@
     "이미지/Pasted image 20250116104306.png",
     "이미지/Pasted image 20250116104209.png",
     "이미지/Pasted image 20250116104232.png",
-    "이미지/Pasted image 20250116104200.png",
     "HTML/TAGs/5 레이아웃 box/div",
     "HTML/TAGs/5 레이아웃 box",
-    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링",
-    "이미지/Pasted image 20240910193331.png"
+    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링"
   ]
 }

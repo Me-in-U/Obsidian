@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java/COLLECTIONS/MAP.md",
+                "file": "Java/Stream/Stream.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MAP"
+              "title": "Stream"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "e1a7b0e752654860",
+            "id": "c3670b7d032d001b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -152,35 +152,37 @@
   },
   "active": "cde7ef680f8ac19a",
   "lastOpenFiles": [
-    "Java/COLLECTIONS/SET.md",
-    "Java/COLLECTIONS/MAP.md",
-    "Java/COLLECTIONS/COLLECTIONS.md",
-    "Java/COLLECTIONS/LIST.md",
-    "Java/COLLECTIONS/상호변환.md",
+    "Java/Stream/@FunctionalInterface 함수형 인터페이스.md",
+    "Java/Stream/Stream.md",
+    "Java/Lambda.md",
+    "Java/Java.md",
+    "Java/Enhanced Switch Expressions.md",
+    "Java/format.md",
+    "Java/Arrays.md",
+    "Python/시간측정.md",
+    "Java/Stream/Stream.toList().md",
+    "Java/Stream",
+    "Java/Optional methods.md",
+    "Java/regex.md",
+    "Java/메모리 할당(Metaspace, stack, heap).md",
+    "Java/Time.md",
+    "Java/AtomicInteger synchronized 동기화 동시성.md",
+    "Java/BigInteger.md",
+    "Java/Generic/불공변성(Invariance).md",
+    "Java/Generic/클래스 메소드.md",
+    "Java/클래스와 객체/클래스와 객체.md",
+    "Java/클래스와 객체",
+    "Java/클래스와 객체/Sealed Class.md",
+    "Java/JAVA 17+/JAVA 17+.md",
+    "Java/JAVA 15+/JAVA 15+.md",
+    "Java/JAVA 16+/JAVA 16+.md",
+    "Java/JAVA 14+/JAVA 14+.md",
+    "Java/JAVA 10+/JAVA 10+.md",
+    "Java/JAVA 9+/JAVA 9+.md",
+    "Java/Override.md",
     "Pasted image 20250131150957.png",
     "Pasted image 20250131150909.png",
-    "Java/COLLECTIONS/다중 리스트.md",
-    "Java/Generic/Generic.md",
-    "Java/Generic/PECS(Producer Extends, Consumer Super) .md",
-    "Java/Generic/제한된 타입 파라미터(Bounded Type Parameter).md",
-    "Java/Generic/클래스 메소드.md",
-    "Java/Generic/와일드카드(Wildcard).md",
-    "알고리즘/Combination 설명/Combination 설명.md",
-    "알고리즘/Combination 설명/Combination 코드.md",
-    "Context/Context.md",
-    "이미지/이미지.md",
-    "Excalidraw/Excalidraw.md",
-    "알고리즘/피보나치/O(log n) 행렬/피보나치 행렬.md",
-    "HTML/TAGs/7 값과 단위/3 색상/RGB 및 RGBA 값.md",
     "무제.canvas",
-    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링/a 링크 스타일링.md",
-    "HTML/TAGs/6 텍스트 스타일링/6 글꼴(Font)/AntiAlias.md",
-    "HTML/TAGs/7 값과 단위/7 값과 단위.md",
-    "Java/JAVA 17+/JSON.md",
-    "HTML/TAGs/Table.md",
-    "Java/JAVA 8+/Lambda.md",
-    "Java/JAVA 15+/TextBlocks.md",
-    "HTML/TAGs/7 값과 단위/문자열 및 식별자 (identifiers).md",
     "Java/Generic",
     "Git",
     "Java/JAVA 8+",
@@ -197,8 +199,6 @@
     "이미지/Pasted image 20250116104306.png",
     "이미지/Pasted image 20250116104209.png",
     "이미지/Pasted image 20250116104232.png",
-    "HTML/TAGs/5 레이아웃 box/div",
-    "HTML/TAGs/5 레이아웃 box",
-    "HTML/TAGs/6 텍스트 스타일링/a 링크 스타일링"
+    "HTML/TAGs/5 레이아웃 box/div"
   ]
 }

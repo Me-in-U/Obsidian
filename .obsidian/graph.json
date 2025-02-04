@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 5395168
       }
+    },
+    {
+      "query": "tag:#git  ",
+      "color": {
+        "a": 1,
+        "rgb": 11621088
+      }
     }
   ],
   "collapse-display": false,
@@ -67,6 +74,6 @@
   "repelStrength": 10.1041666666667,
   "linkStrength": 1,
   "linkDistance": 243,
-  "scale": 0.11652058563389323,
+  "scale": 0.45016686199948475,
   "close": false
 }

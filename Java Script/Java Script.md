@@ -1,3 +1,3 @@
 ---
-tags: Language
+tags: Language, js
 ---

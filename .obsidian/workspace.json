@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bc6a2386e3f8a715",
+        "id": "5d8618b2af028c43",
         "type": "tabs",
         "children": [
           {
-            "id": "cde7ef680f8ac19a",
+            "id": "8d62a2f364e8a8f0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/Stream/Stream.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Stream"
+              "title": "새 탭"
             }
           }
         ]
@@ -54,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#compress",
+                "query": "tag:#git",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -76,7 +71,7 @@
             }
           },
           {
-            "id": "c3670b7d032d001b",
+            "id": "784786b393892ab7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +80,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -150,8 +146,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cde7ef680f8ac19a",
+  "active": "8d62a2f364e8a8f0",
   "lastOpenFiles": [
+    "Java Script/alert.md",
+    "알고리즘/삼각형의 넓이.md",
+    "Context/Context.md",
+    "Vault.md",
     "Java/Stream/@FunctionalInterface 함수형 인터페이스.md",
     "Java/Stream/Stream.md",
     "Java/Lambda.md",
@@ -176,12 +176,8 @@
     "Java/JAVA 17+/JAVA 17+.md",
     "Java/JAVA 15+/JAVA 15+.md",
     "Java/JAVA 16+/JAVA 16+.md",
-    "Java/JAVA 14+/JAVA 14+.md",
-    "Java/JAVA 10+/JAVA 10+.md",
-    "Java/JAVA 9+/JAVA 9+.md",
-    "Java/Override.md",
-    "Pasted image 20250131150957.png",
-    "Pasted image 20250131150909.png",
+    "이미지/Pasted image 20250131150957.png",
+    "이미지/Pasted image 20250131150909.png",
     "무제.canvas",
     "Java/Generic",
     "Git",

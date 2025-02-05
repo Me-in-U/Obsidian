@@ -11,10 +11,12 @@
             "id": "8d62a2f364e8a8f0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "mk-space",
+              "state": {
+                "path": "Java/IO - Stream"
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "IO - Stream"
             }
           }
         ]
@@ -71,7 +73,7 @@
             }
           },
           {
-            "id": "784786b393892ab7",
+            "id": "f45a8cf0cae8d403",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -148,6 +150,9 @@
   },
   "active": "8d62a2f364e8a8f0",
   "lastOpenFiles": [
+    "Java/IO - Stream/IO - Stream.md",
+    "Java/IO - Stream",
+    "Tags",
     "Java Script/alert.md",
     "알고리즘/삼각형의 넓이.md",
     "Context/Context.md",
@@ -174,8 +179,6 @@
     "Java/클래스와 객체",
     "Java/클래스와 객체/Sealed Class.md",
     "Java/JAVA 17+/JAVA 17+.md",
-    "Java/JAVA 15+/JAVA 15+.md",
-    "Java/JAVA 16+/JAVA 16+.md",
     "이미지/Pasted image 20250131150957.png",
     "이미지/Pasted image 20250131150909.png",
     "무제.canvas",
@@ -184,7 +187,6 @@
     "Java/JAVA 8+",
     "Java/추상화, 구체화, 인스턴스",
     "무제 파일.canvas",
-    "Tags",
     "알고리즘/문자열 탐색 알고리즘/context.mdb",
     "이미지/Pasted image 20250116104602.png",
     "이미지/Pasted image 20250116104525.png",
@@ -194,7 +196,6 @@
     "무제 폴더",
     "이미지/Pasted image 20250116104306.png",
     "이미지/Pasted image 20250116104209.png",
-    "이미지/Pasted image 20250116104232.png",
-    "HTML/TAGs/5 레이아웃 box/div"
+    "이미지/Pasted image 20250116104232.png"
   ]
 }

@@ -13,10 +13,10 @@
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Java/IO - Stream"
+                "path": "Java/COLLECTIONS"
               },
               "icon": "lucide-file",
-              "title": "IO - Stream"
+              "title": "COLLECTIONS"
             }
           }
         ]
@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "f45a8cf0cae8d403",
+            "id": "668c35dbc524ad84",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -150,6 +150,8 @@
   },
   "active": "8d62a2f364e8a8f0",
   "lastOpenFiles": [
+    "Java/COLLECTIONS/COLLECTIONS.md",
+    "Java/record.md",
     "Java/IO - Stream/IO - Stream.md",
     "Java/IO - Stream",
     "Tags",
@@ -178,7 +180,6 @@
     "Java/클래스와 객체/클래스와 객체.md",
     "Java/클래스와 객체",
     "Java/클래스와 객체/Sealed Class.md",
-    "Java/JAVA 17+/JAVA 17+.md",
     "이미지/Pasted image 20250131150957.png",
     "이미지/Pasted image 20250131150909.png",
     "무제.canvas",

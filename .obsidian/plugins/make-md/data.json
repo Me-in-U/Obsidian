@@ -65,8 +65,8 @@
     "//Java/Java/Stream",
     "//Java/Java/COLLECTIONS",
     "//Java/Java/추상화, 구체화, 인스턴스",
-    "//Java",
-    "//Java/Java/IO - Stream"
+    "//Java/Java/IO - Stream",
+    "//Java"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

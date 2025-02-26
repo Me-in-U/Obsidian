@@ -4,22 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5d8618b2af028c43",
+        "id": "1f664ee191ddfe05",
         "type": "tabs",
         "children": [
           {
-            "id": "8d62a2f364e8a8f0",
+            "id": "32d81b8014753987",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/퀴즈.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "퀴즈"
+              "title": "새 탭"
             }
           }
         ]
@@ -76,7 +71,7 @@
             }
           },
           {
-            "id": "98befe0f2848dbb8",
+            "id": "054ee807a60a7dba",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -107,7 +102,7 @@
               "type": "calendar",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "플러그인이 더 이상 활성화돼있지 않음"
             }
           },
           {
@@ -148,17 +143,18 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8d62a2f364e8a8f0",
+  "active": "054ee807a60a7dba",
   "lastOpenFiles": [
-    "Java/COLLECTIONS/COLLECTIONS.md",
     "Java/퀴즈.md",
+    "Tags",
+    "Java/COLLECTIONS/COLLECTIONS.md",
     "Java/record.md",
     "Java/IO - Stream/IO - Stream.md",
     "Java/IO - Stream",
-    "Tags",
     "Java Script/alert.md",
     "알고리즘/삼각형의 넓이.md",
     "Context/Context.md",
@@ -181,7 +177,6 @@
     "Java/BigInteger.md",
     "Java/Generic/불공변성(Invariance).md",
     "Java/Generic/클래스 메소드.md",
-    "Java/클래스와 객체/클래스와 객체.md",
     "Java/클래스와 객체",
     "이미지/Pasted image 20250131150957.png",
     "이미지/Pasted image 20250131150909.png",

@@ -64,7 +64,9 @@
     "//Java/Java/Stream",
     "//Java/Java/추상화, 구체화, 인스턴스",
     "//Java/Java/IO - Stream",
-    "//HTML/HTML/TAGs"
+    "//HTML/HTML/TAGs",
+    "//알고리즘",
+    "//알고리즘/알고리즘/피보나치"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",

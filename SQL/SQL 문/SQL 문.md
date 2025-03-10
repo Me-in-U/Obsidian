@@ -1,0 +1,17 @@
+- DML
+	- INSERT: 레코드 삽입
+	- UPDATE: 레코드 수정
+	- DELETE: 레코드 삭제
+	- SELECT: 레코드 조회, DQL
+- DDL
+	- CREATE: 데이터베이스 객체 생성
+	- ALTER: 수정
+	- DROP: 삭제
+	- RENAME: 이름 수정
+- TCL
+	- COMMIT: 변화된 내용이 있다면 적용하며 트랜잭션 종료
+	- ROLLBACK: 변화된 내용이 있어도 적용하지 않으며 트랜잭션 종료
+	- SAVEPOINT: 트랜잭션의 일부만 롤백할 수 있는 저장점 생성
+- DCL
+	- GRANtT: 데이터베이스와 객체들에 대한 다양한 권한 부여
+	- REVOKE: 데이터베이스와 객체들에 대해 부여된 권한 회수

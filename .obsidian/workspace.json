@@ -11,15 +11,12 @@
             "id": "32d81b8014753987",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "알고리즘/피보나치/O(n) DP (메모이제이션).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "path": "SQL"
               },
               "icon": "lucide-file",
-              "title": "O(n) DP (메모이제이션)"
+              "title": "SQL"
             }
           }
         ]
@@ -76,7 +73,7 @@
             }
           },
           {
-            "id": "054ee807a60a7dba",
+            "id": "2428c54daee6150b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -90,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 232.5
   },
   "right": {
     "id": "6fc1b978a05db798",
@@ -148,14 +145,20 @@
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "32d81b8014753987",
   "lastOpenFiles": [
-    "Java/퀴즈.md",
+    "SQL/SQL.md",
+    "SQL/.md",
+    "SQL/SQL 문/SQL 문.md",
+    "SQL/SQL 스키마.md",
+    "SQL/SQL 문",
+    "SQL",
+    "알고리즘/피보나치/O(n) DP (메모이제이션).md",
     "Tags",
+    "Java/퀴즈.md",
     "Java/COLLECTIONS/COLLECTIONS.md",
     "Java/record.md",
     "Java/IO - Stream/IO - Stream.md",
@@ -178,10 +181,6 @@
     "Java/regex.md",
     "Java/메모리 할당(Metaspace, stack, heap).md",
     "Java/Time.md",
-    "Java/AtomicInteger synchronized 동기화 동시성.md",
-    "Java/BigInteger.md",
-    "Java/Generic/불공변성(Invariance).md",
-    "Java/Generic/클래스 메소드.md",
     "Java/클래스와 객체",
     "이미지/Pasted image 20250131150957.png",
     "이미지/Pasted image 20250131150909.png",
@@ -191,13 +190,11 @@
     "Java/JAVA 8+",
     "Java/추상화, 구체화, 인스턴스",
     "무제 파일.canvas",
-    "알고리즘/문자열 탐색 알고리즘/context.mdb",
     "이미지/Pasted image 20250116104602.png",
     "이미지/Pasted image 20250116104525.png",
     "이미지/Pasted image 20250116104512.png",
     "이미지/Pasted image 20250116104503.png",
     "이미지/Pasted image 20250116104449.png",
-    "무제 폴더",
     "이미지/Pasted image 20250116104306.png",
     "이미지/Pasted image 20250116104209.png",
     "이미지/Pasted image 20250116104232.png"

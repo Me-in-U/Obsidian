@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1f664ee191ddfe05",
+        "id": "ce54e2224b6e280a",
         "type": "tabs",
         "children": [
           {
-            "id": "32d81b8014753987",
+            "id": "b960203de66df6e0",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
-              "state": {
-                "path": "SQL"
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "새 탭"
             }
           }
         ]
@@ -73,7 +71,7 @@
             }
           },
           {
-            "id": "2428c54daee6150b",
+            "id": "ea54eae7ef676e9c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -148,8 +146,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "32d81b8014753987",
+  "active": "b960203de66df6e0",
   "lastOpenFiles": [
+    "SQL/함수/윈도우 함수/윈도우 함수.md",
+    "SQL/함수/윈도우 함수/이동 함수.md",
+    "SQL/함수/윈도우 함수/순위 함수.md",
+    "SQL/함수/윈도우 함수/집계 함수.md",
+    "SQL/함수/윈도우 함수/집계 함수/집계 함수.md",
+    "SQL/함수/윈도우 함수/집계 함수/무제.md",
+    "SQL/함수/윈도우 함수",
+    "SQL/JOIN.md",
+    "SQL/함수/윈도우 함수/집계 함수",
+    "SQL/함수/함수.md",
+    "SQL/함수",
     "SQL/SQL.md",
     "SQL/.md",
     "SQL/SQL 문/SQL 문.md",
@@ -172,23 +181,12 @@
     "Java/Lambda.md",
     "Java/Java.md",
     "Java/Enhanced Switch Expressions.md",
-    "Java/format.md",
-    "Java/Arrays.md",
-    "Python/시간측정.md",
-    "Java/Stream/Stream.toList().md",
     "Java/Stream",
-    "Java/Optional methods.md",
-    "Java/regex.md",
-    "Java/메모리 할당(Metaspace, stack, heap).md",
-    "Java/Time.md",
     "Java/클래스와 객체",
     "이미지/Pasted image 20250131150957.png",
     "이미지/Pasted image 20250131150909.png",
     "무제.canvas",
     "Java/Generic",
-    "Git",
-    "Java/JAVA 8+",
-    "Java/추상화, 구체화, 인스턴스",
     "무제 파일.canvas",
     "이미지/Pasted image 20250116104602.png",
     "이미지/Pasted image 20250116104525.png",

@@ -14,7 +14,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +40,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "파일 탐색기"
+              "title": "Files"
             }
           },
           {
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "ea54eae7ef676e9c",
+            "id": "d1599e375271ba43",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -102,7 +102,7 @@
               "type": "calendar",
               "state": {},
               "icon": "lucide-file",
-              "title": "플러그인이 더 이상 활성화돼있지 않음"
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -137,17 +137,18 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b960203de66df6e0",
+  "active": "22823bbdf51c1ae7",
   "lastOpenFiles": [
+    "Tags",
     "SQL/함수/윈도우 함수/윈도우 함수.md",
     "SQL/함수/윈도우 함수/이동 함수.md",
     "SQL/함수/윈도우 함수/순위 함수.md",
@@ -166,7 +167,6 @@
     "SQL/SQL 문",
     "SQL",
     "알고리즘/피보나치/O(n) DP (메모이제이션).md",
-    "Tags",
     "Java/퀴즈.md",
     "Java/COLLECTIONS/COLLECTIONS.md",
     "Java/record.md",
@@ -180,7 +180,6 @@
     "Java/Stream/Stream.md",
     "Java/Lambda.md",
     "Java/Java.md",
-    "Java/Enhanced Switch Expressions.md",
     "Java/Stream",
     "Java/클래스와 객체",
     "이미지/Pasted image 20250131150957.png",

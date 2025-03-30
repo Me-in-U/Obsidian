@@ -11,10 +11,15 @@
             "id": "b960203de66df6e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "과목평가 정리/ JDBC 특징, 주요 인터페이스, 클래스, 메서드.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "JDBC 특징, 주요 인터페이스, 클래스, 메서드"
             }
           }
         ]
@@ -71,7 +76,7 @@
             }
           },
           {
-            "id": "ea54eae7ef676e9c",
+            "id": "9d52557b04774e59",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 359.5
   },
   "right": {
     "id": "6fc1b978a05db798",
@@ -148,6 +153,30 @@
   },
   "active": "b960203de66df6e0",
   "lastOpenFiles": [
+    "과목평가 정리/HTTPSERVELT 라이프 사이클.md",
+    "Pasted image 20250331063912.png",
+    "과목평가 정리/클라이언트 요청방식(GETPOST 구분), 에러 응답코드.md",
+    "과목평가 정리/JSP 특징, URL 맵핑, 주요 JSP 내장 객체와 메소드, 스크립트 및 구분, 페이지 이동.md",
+    "과목평가 정리/서블릿  특징, URL 맵핑, 주요 SERVLET 객체와 메소드, 스크립트 및 구분, 페이지 이동.md",
+    "과목평가 정리/JSTL-EL 주요 태그들, 내장 객체, 스코프.md",
+    "과목평가 정리/쿠키, 세션 개념 및 특징, 관련 객체 및 메소드.md",
+    "과목평가 정리/과목평가 정리.md",
+    "과목평가 정리/SQL 쿼리문 경과 예측, SQL 주요 내장 함수 (날짜, 집계, 문자열 등).md",
+    "과목평가 정리/테이블 제약사항.md",
+    "과목평가 정리/모델링 개념 및 특징.md",
+    "Pasted image 20250331064128.png",
+    "Pasted image 20250331064018.png",
+    "Pasted image 20250331063140.png",
+    "Pasted image 20250331063125.png",
+    "Pasted image 20250331062819.png",
+    "Pasted image 20250331062748.png",
+    "Pasted image 20250331062715.png",
+    "Pasted image 20250331062642.png",
+    "Pasted image 20250331062455.png",
+    "과목평가 정리/ JDBC 특징, 주요 인터페이스, 클래스, 메서드.md",
+    "Arduino/Arduino.md",
+    "과목평가 정리",
+    "Tags",
     "SQL/함수/윈도우 함수/윈도우 함수.md",
     "SQL/함수/윈도우 함수/이동 함수.md",
     "SQL/함수/윈도우 함수/순위 함수.md",
@@ -166,35 +195,10 @@
     "SQL/SQL 문",
     "SQL",
     "알고리즘/피보나치/O(n) DP (메모이제이션).md",
-    "Tags",
-    "Java/퀴즈.md",
-    "Java/COLLECTIONS/COLLECTIONS.md",
-    "Java/record.md",
-    "Java/IO - Stream/IO - Stream.md",
     "Java/IO - Stream",
-    "Java Script/alert.md",
-    "알고리즘/삼각형의 넓이.md",
-    "Context/Context.md",
-    "Vault.md",
-    "Java/Stream/@FunctionalInterface 함수형 인터페이스.md",
-    "Java/Stream/Stream.md",
-    "Java/Lambda.md",
-    "Java/Java.md",
-    "Java/Enhanced Switch Expressions.md",
     "Java/Stream",
     "Java/클래스와 객체",
-    "이미지/Pasted image 20250131150957.png",
-    "이미지/Pasted image 20250131150909.png",
     "무제.canvas",
-    "Java/Generic",
-    "무제 파일.canvas",
-    "이미지/Pasted image 20250116104602.png",
-    "이미지/Pasted image 20250116104525.png",
-    "이미지/Pasted image 20250116104512.png",
-    "이미지/Pasted image 20250116104503.png",
-    "이미지/Pasted image 20250116104449.png",
-    "이미지/Pasted image 20250116104306.png",
-    "이미지/Pasted image 20250116104209.png",
-    "이미지/Pasted image 20250116104232.png"
+    "무제 파일.canvas"
   ]
 }

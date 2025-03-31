@@ -6,7 +6,7 @@ aliases: []
 	- 자바 언어로 작성된 서버사이드 프로그램
 	- `javax.servlet` 패키지와 `javax.servlet.http` 패키지에 있는 인터페이스/클래스를 구현(또는 상속)하여 작성
 2. **HTTP 요청/응답 처리**
-	- `HttpServlet` 클래스를 상속받아 `doGet()`, `doPost()` 메서드 등을 오버라이딩하여 HTTP 요청을 처리
+	- `HttpServlet` 클래스를 상속받아 `doGet()`, `doPost()` 메서드 등을 오버라이딩하여 ***HTTP 요청을 처리***
 3. **비즈니스 로직 처리에 적합**
 	- 요청을 받고, 처리(비즈니스 로직) 후 결과를 뷰(JSP 등)에 전달
 4. **MVC 구조**에서 **Controller** 역할을 주로 담당

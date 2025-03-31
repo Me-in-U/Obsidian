@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "과목평가 정리/ JDBC 특징, 주요 인터페이스, 클래스, 메서드.md",
+                "file": "과목평가 정리/서블릿  특징, URL 맵핑, 주요 SERVLET 객체와 메소드, 스크립트 및 구분, 페이지 이동.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "JDBC 특징, 주요 인터페이스, 클래스, 메서드"
+              "title": "서블릿  특징, URL 맵핑, 주요 SERVLET 객체와 메소드, 스크립트 및 구분, 페이지 이동"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "9d52557b04774e59",
+            "id": "f49d9e2080bca3d3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -90,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 359.5
+    "width": 291.5
   },
   "right": {
     "id": "6fc1b978a05db798",
@@ -142,28 +142,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:빠른 전환기 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "b960203de66df6e0",
   "lastOpenFiles": [
+    "과목평가 정리/JSP 특징, URL 맵핑, 주요 JSP 내장 객체와 메소드, 스크립트 및 구분, 페이지 이동.md",
+    "과목평가 정리/쿠키, 세션 개념 및 특징, 관련 객체 및 메소드.md",
+    "과목평가 정리/JSTL-EL 주요 태그들, 내장 객체, 스코프.md",
+    "과목평가 정리/ JDBC 특징, 주요 인터페이스, 클래스, 메서드.md",
+    "과목평가 정리/서블릿  특징, URL 맵핑, 주요 SERVLET 객체와 메소드, 스크립트 및 구분, 페이지 이동.md",
+    "과목평가 정리/SQL 쿼리문 경과 예측, SQL 주요 내장 함수 (날짜, 집계, 문자열 등).md",
+    "과목평가 정리/모델링 개념 및 특징.md",
+    "과목평가 정리/클라이언트 요청방식(GETPOST 구분), 에러 응답코드.md",
+    "과목평가 정리/테이블 제약사항.md",
     "과목평가 정리/HTTPSERVELT 라이프 사이클.md",
     "Pasted image 20250331063912.png",
-    "과목평가 정리/클라이언트 요청방식(GETPOST 구분), 에러 응답코드.md",
-    "과목평가 정리/JSP 특징, URL 맵핑, 주요 JSP 내장 객체와 메소드, 스크립트 및 구분, 페이지 이동.md",
-    "과목평가 정리/서블릿  특징, URL 맵핑, 주요 SERVLET 객체와 메소드, 스크립트 및 구분, 페이지 이동.md",
-    "과목평가 정리/JSTL-EL 주요 태그들, 내장 객체, 스코프.md",
-    "과목평가 정리/쿠키, 세션 개념 및 특징, 관련 객체 및 메소드.md",
     "과목평가 정리/과목평가 정리.md",
-    "과목평가 정리/SQL 쿼리문 경과 예측, SQL 주요 내장 함수 (날짜, 집계, 문자열 등).md",
-    "과목평가 정리/테이블 제약사항.md",
-    "과목평가 정리/모델링 개념 및 특징.md",
     "Pasted image 20250331064128.png",
     "Pasted image 20250331064018.png",
     "Pasted image 20250331063140.png",
@@ -173,7 +174,6 @@
     "Pasted image 20250331062715.png",
     "Pasted image 20250331062642.png",
     "Pasted image 20250331062455.png",
-    "과목평가 정리/ JDBC 특징, 주요 인터페이스, 클래스, 메서드.md",
     "Arduino/Arduino.md",
     "과목평가 정리",
     "Tags",
